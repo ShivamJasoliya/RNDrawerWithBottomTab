@@ -48,24 +48,29 @@ This project demonstrates how to implement drawer navigation and bottom tab navi
 ---
 
 **Contributing:**
+
 Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or new features.
 
 ---
 
 **License:**
+
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
 **Author:**
+
 Shivam H. Jasoliya
 
 ---
 
 **Contact:**
+
 For any inquiries or support, please feel free to reach out to me via the following channels:
 
 Email: shivamjasoliya1920@email.com
+
 WhatsApp: +91 7201018158
 
 I'm available to assist you and discuss any questions or feedback you may have regarding the project.
